@@ -1,0 +1,1 @@
+Data is too large to upload, can be downloaded at: http://classic.fec.gov/disclosurep/PDownload.do
