@@ -9,8 +9,10 @@ Date: Aug 4, 2017
 
 I chose to create a visualization of 2016 Presidential Campaign Finance, specifically on Trump and Clinton. The finance amount ratio in each state basically accords with state political affliations. Clinton has a advantage on the total finance amount. Different states have different patterns in terms of donor composition.
 
-The dataset is from [fec.gov](http://classic.fec.gov/disclosurep/PDownload.do). 
+The dataset is from [fec.gov](http://classic.fec.gov/disclosurep/PDownload.do).
+
 [Here](https://public.tableau.com/views/donor_0/Story1?:embed=y&:display_count=yes&publish=yes) is the final version of the visualization. 
+
 The previous version can be accessed [here](https://public.tableau.com/views/PresidentialCampaignFinanceAcrossStatesTrumpvs_Clinton/Story1?:embed=y&:display_count=yes&publish=yes).
 
 ## Design
@@ -33,7 +35,7 @@ The third plot is the time series plot reflects the amount of finance for each c
 ##### Plot 4 
 The forth plot is the top 5 occupation types of donors for each candidate. During the process, I excluded the null value, type named "information required" and the retirement type as they are not informative occupation types. I also got the feedback that the label for y axis is not necessary in this case so I removed it in the final version.
 
-## Storyline
+### Storyline
 
 ##### Card 1
 The first card is the general picture. The finance amount ratio between Trump and Clinton in each state bascially accords with state political affliations. Clinton has a huge advantage both on the total finance amount and duration.
@@ -57,7 +59,9 @@ I also adjusted the font and color of the annonation in the final version to imp
 
 ## Resource
 [2016 Presidential Campaign Finance](http://classic.fec.gov/disclosurep/PDownload.do)
+
 [Presidential Election Results: Donald J. Trump Wins](https://www.nytimes.com/elections/results/president)
+
 [Hillary Clinton: "We Are Going To Put A Lot Of Coal Miners & Coal Companies Out Of Business"](https://www.youtube.com/watch?v=ksIXqxpQNt0)
 
 
